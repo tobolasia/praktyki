@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\asia\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 elektrycznych\\pulpit\\final\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\asia\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 elektrycznych\\pulpit\\final\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\asia\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 elektrycznych\\pulpit\\final\\mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\asia\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 elektrycznych\\pulpit\\final\\mycoreapp\\pages\\history.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\history.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\asia\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 elektrycznych\\pulpit\\final\\mycoreapp\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\asia\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 elektrycznych\\pulpit\\final\\mycoreapp\\mycoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{286E039D-65D8-824A-54CC-8B5BF30C1CE4}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\mycoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Program.cs",
+              "RelativeToolTip": "MyCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:45:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAawEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:45:07.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\History.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\History.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\History.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\History.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:45:05.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\History.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\History.cshtml",
+              "ToolTip": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\History.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T15:45:01.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAACVAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T15:44:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyCoreApp",
+              "DocumentMoniker": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\MyCoreApp.csproj",
+              "RelativeDocumentMoniker": "MyCoreApp\\MyCoreApp.csproj",
+              "ToolTip": "C:\\Users\\Asia\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Elektrycznych\\Pulpit\\final\\MyCoreApp\\MyCoreApp.csproj",
+              "RelativeToolTip": "MyCoreApp\\MyCoreApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T15:44:45.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
