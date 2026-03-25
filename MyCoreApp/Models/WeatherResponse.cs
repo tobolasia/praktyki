@@ -15,5 +15,9 @@ namespace MyCoreApp.Models
 
         [JsonPropertyName("wind")]
         public WindInfo Wind { get; set; }
+
+        [JsonPropertyName("coord")]
+        public Coord Coord { get; set; }
+
     }
 }

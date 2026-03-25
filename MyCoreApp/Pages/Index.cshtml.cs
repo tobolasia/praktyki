@@ -21,6 +21,8 @@ namespace MyCoreApp.Pages
         public string City { get; set; }
 
         public WeatherResponse? Weather { get; set; }
+        public ForecastResponse? Forecast { get; set; }
+        public AirQualityResponse? AirQuality { get; set; }
         public string? ErrorMessage { get; set; }
 
         public void OnGet()
@@ -37,6 +39,8 @@ namespace MyCoreApp.Pages
 
             Weather = await _weatherService.GetWeatherAsync(City);
 
+            Forecast = await _weatherService.GetForecastAsync(City);
+
             if (Weather == null)
             {
                 ErrorMessage = "Nie znaleziono miasta lub wystąpił błąd API.";
@@ -52,6 +56,14 @@ namespace MyCoreApp.Pages
                 WindSpeed = Weather.Wind.Speed,
                 CreatedAt = DateTime.UtcNow
             };
+
+            if (Weather != null)
+            {
+                AirQuality = await _weatherService.GetAirQualityAsync(
+                    Weather.Coord.Lat,
+                    Weather.Coord.Lon
+                );
+            }
 
             _db.WeatherHistories.Add(history);
             await _db.SaveChangesAsync();

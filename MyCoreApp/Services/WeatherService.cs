@@ -41,5 +41,31 @@ namespace MyCoreApp.Services
 
             return result;
         }
+
+        public async Task<ForecastResponse?> GetForecastAsync(string city)
+        {
+            var url = $"https://api.openweathermap.org/data/2.5/forecast?q={city}&units=metric&lang=pl&appid={_apiKey}";
+
+            var response = await _httpClient.GetAsync(url);
+
+            if (!response.IsSuccessStatusCode)
+                return null;
+
+            var json = await response.Content.ReadAsStringAsync();
+            return JsonSerializer.Deserialize<ForecastResponse>(json);
+        }
+
+        public async Task<AirQualityResponse?> GetAirQualityAsync(double lat, double lon)
+        {
+            var url = $"https://api.openweathermap.org/data/2.5/air_pollution?lat={lat}&lon={lon}&appid={_apiKey}";
+
+            var response = await _httpClient.GetAsync(url);
+
+            if (!response.IsSuccessStatusCode)
+                return null;
+
+            var json = await response.Content.ReadAsStringAsync();
+            return JsonSerializer.Deserialize<AirQualityResponse>(json);
+        }
     }
 }

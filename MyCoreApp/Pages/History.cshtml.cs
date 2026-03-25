@@ -33,25 +33,21 @@ namespace MyCoreApp.Pages
         {
             var query = _db.WeatherHistories.AsQueryable();
 
-            // Filtrowanie po mieście
             if (!string.IsNullOrWhiteSpace(City))
             {
                 query = query.Where(x => x.City.Contains(City));
             }
 
-            // Filtrowanie po dacie od
             if (DateFrom.HasValue)
             {
                 query = query.Where(x => x.CreatedAt >= DateFrom.Value);
             }
 
-            // Filtrowanie po dacie do
             if (DateTo.HasValue)
             {
                 query = query.Where(x => x.CreatedAt <= DateTo.Value.AddDays(1));
             }
 
-            // Sortowanie
             query = SortBy switch
             {
                 "date_asc" => query.OrderBy(x => x.CreatedAt),
